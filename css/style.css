@@ -2,7 +2,7 @@
 html, body{
     font-size: 100%;
 	font-family: 'Open Sans', sans-serif;
-	background:#ffffff;
+	background:	#ffffe0;
 }
 ul li,ol li{
 	font-size:14px;
@@ -236,7 +236,7 @@ ul.dropdown-menu.drp-mnu li a i {
 	float: left;
 /*-- agileits --*/
     width: 20%;
-    background: #f5f5f5;
+    background: #ffffe0;
 }
 .wthree_banner_bottom_left_grid_sub{
 	float: left;
@@ -255,15 +255,15 @@ ul.dropdown-menu.drp-mnu li a i {
 }
 .nav > li > a:hover, .nav > li > a:focus {
     background-color: #84C639;
-    color: #fff;
+    color: 	#fff;
 }
 .navbar-nav {
     float: none;
     margin: 0;
-	border-top: 1px solid #B58F62;
+	border-top: 1px solid ;
 }
 .navbar-nav > li > a {
-    color: #212121;
+    color: black;
     padding:10px 0px 10px 40px;
     border-bottom: 1px dotted #CDCDCD;
 }
